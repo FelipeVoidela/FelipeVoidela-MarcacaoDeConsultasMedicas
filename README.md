@@ -1,3 +1,5 @@
+Nome: Felipe Voidela Toledo 
+RM: 98595
 #  Projeto de Marcação de Consulta - React + TypeScript
 
 Este projeto é uma aplicação web desenvolvida com **React** e **TypeScript** que permite aos usuários marcarem consultas médicas de forma simples e intuitiva. A interface é amigável e voltada tanto para pacientes quanto para clínicas.
