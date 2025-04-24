@@ -9,7 +9,7 @@ Este projeto é uma aplicação web desenvolvida com **React** e **TypeScript** 
 - Cadastro de paciente (simples)
 - Confirmação da consulta marcada
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - React
 - TypeScript
